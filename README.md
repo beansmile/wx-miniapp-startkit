@@ -8,7 +8,9 @@
 # 克隆仓库到指定的文件夹
 $ git clone git@github.com:xifengzhu/wx-miniapp-startkit.git
 
-# cd wx-miniapp-startkit
+$ cd wx-miniapp-startkit
+
+$ yarn install
 ```
 
 ### Develop
